@@ -7,10 +7,10 @@ The inspection categorises the vehicles into three types (heavy goods vehicles, 
 
 The attached spreadsheet (VehicleData.xls) contains the results of the inspections from 2000 onwards. The fields in the data are as follows:
 
-1.	The unique ID of the vehicle;
-2.	The type of vehicle;
-3.	The manufacturer;
-4.	The inspection score;
+—	The unique ID of the vehicle;
+—	The type of vehicle;
+—	The manufacturer;
+—	The inspection score;
 The client hands you this data and asks you to investigate the following questions:
 
 1.	How does the sample size vary from year-to-year? Are there any years that the DfBL should exclude from this analysis?
